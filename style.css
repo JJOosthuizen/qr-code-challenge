@@ -1,0 +1,32 @@
+body {
+    background-color: hsl(212, 45%, 89%);
+    font-size: 15px;
+}
+
+main {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    min-height: 100vh;
+}
+
+h1 {
+    font-size: 1.5em;
+}
+
+.card {
+    max-width: 350px;
+    background-color: #fff;
+    text-align: center;
+    border: 1em #fff solid;
+    border-radius: 1em;
+}
+
+p {
+    color: #C8C7CC;
+}
+
+img {
+    width: 100%;
+}
